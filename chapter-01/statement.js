@@ -43,4 +43,4 @@ function usd(aNumber) {
   }).format(aNumber / 100);
 }
 
-console.log(statement(invoices, plays));
+console.log(htmlStatement(invoices, plays));
